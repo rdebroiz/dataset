@@ -9,6 +9,7 @@
 
 import sys, os
 import argparse
+import re
 import json
 from pathlib import Path
 
@@ -157,6 +158,29 @@ def main(argv=None):
 
 	return
 
+# Typographic variants of the same lyric text (apostrophe forms, dash forms,
+# space forms, spacing before punctuation) are typesetting choices, not
+# recognition differences: normalize them away, on both scores, before the diff.
+LYRIC_TEXT_EQUIVALENCES = str.maketrans({
+	"’": "'",   # right single quotation mark
+	"‘": "'",   # left single quotation mark
+	"ʼ": "'",   # modifier letter apostrophe
+	"—": "-",   # em dash
+	"–": "-",   # en dash
+	"\u00a0": " ",  # no-break space
+	"\u202f": " ",  # narrow no-break space
+	"\u2009": " ",  # thin space
+})
+
+def normalize_lyrics_typography(score):
+	for note in score.recurse().notesAndRests:
+		for lyric in note.lyrics:
+			if lyric.text:
+				text = lyric.text.translate(LYRIC_TEXT_EQUIVALENCES)
+				text = re.sub(r" +([!?;:,.])", r"\1", text)
+				text = re.sub(r"  +", " ", text).strip()
+				lyric.text = text
+
 def compare_single_score(score_name, detail):
 	"""
 	   Compares a predicted score (in predicted)
@@ -183,6 +207,8 @@ def compare_single_score(score_name, detail):
 
 	predicted_score = m21.converter.parse(predicted_path, forceSource=True)
 	ground_score = m21.converter.parse(ground_truth_path, forceSource=True)
+	normalize_lyrics_typography(predicted_score)
+	normalize_lyrics_typography(ground_score)
 
 
 	# scan each score, producing an annotated wrapper
