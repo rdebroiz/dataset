@@ -2,3 +2,4 @@
 .DS_Store
 ground_truth/send_to_neuma.sh
 
+__pycache__/
