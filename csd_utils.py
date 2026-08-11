@@ -77,7 +77,8 @@ def main(argv=None):
 			"notesandrests", "beams", "tremolos", "ornaments",
 			"articulations", "ties", "slurs", "signatures",
 			"directions", "barlines", "staffdetails",
-			"chordsymbols", "ottavas", "arpeggios", "lyrics"],
+			"chordsymbols", "ottavas", "arpeggios", "lyrics",
+			"lyricidentifiers"],
 		help="included details (can include multiple details)"
 		)
 
@@ -137,6 +138,8 @@ def main(argv=None):
 				detail |= DetailLevel.Arpeggios
 			elif det == "lyrics":
 				detail |= DetailLevel.Lyrics
+			elif det == "lyricidentifiers":
+				detail |= DetailLevel.LyricIdentifiers
 
 	if args.action == SINGLE_SCORE_ACTION:
 		if args.score is None:
@@ -230,12 +233,14 @@ def compare_single_score(score_name, detail):
 	score_report.ground_stats.show()
 
 	if len(diff_list) > 0:
-		summ: str = '\t' + DiffUtilities.oplistSummary(diff_list)
+		# oplistSummary still reads the operations as tuples
+		summ: str = '\t' + DiffUtilities.oplistSummary(
+			[(diff.name, diff.obj1, diff.obj2) for diff in diff_list])
 		print(summ)
 		#print(summ, file=results)
 
 	for diff in diff_list:
-		op = MdiffOp (diff[0], diff[1], diff[2], diff[3])
+		op = MdiffOp (diff.name, diff.obj1, diff.obj2, diff.edit_distance)
 		score_report.add (op)
 
 	outrep = os.path.join (OUT_DIR, f"{scpath.stem}_report.json")

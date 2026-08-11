@@ -87,11 +87,17 @@ class MdiffOp ():
 	def find_type_and_id (mdiff_obj):
 		obj_type = str(type(mdiff_obj))
 		if "AnnNote" in obj_type:
-			return  mdiff_obj.general_note, "Note"
+			return  MdiffOp.m21_object_id (mdiff_obj), "Note"
 		elif "AnnExtra" in obj_type:
-			return  mdiff_obj.extra, "ReadingContext"
+			return  MdiffOp.m21_object_id (mdiff_obj), "ReadingContext"
 		else:
 			return "",obj_type
+
+	@staticmethod
+	def m21_object_id (mdiff_obj):
+		# musicdiff annotations now hold a weak reference to their music21 object
+		m21_obj = mdiff_obj.get_object()
+		return m21_obj.id if m21_obj is not None else ""
 		
 	def to_dict(self):
 		return {
