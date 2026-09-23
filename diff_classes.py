@@ -87,9 +87,9 @@ class MdiffOp ():
 	def find_type_and_id (mdiff_obj):
 		obj_type = str(type(mdiff_obj))
 		if "AnnNote" in obj_type:
-			return  mdiff_obj.general_note, "Note"
+			return  mdiff_obj.id, "Note"
 		elif "AnnExtra" in obj_type:
-			return  mdiff_obj.extra, "ReadingContext"
+			return  mdiff_obj.id, "ReadingContext"
 		else:
 			return "",obj_type
 		

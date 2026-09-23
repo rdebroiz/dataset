@@ -23,7 +23,7 @@ import musicdiff as mdif
 
 import verovio
 
-from musicdiff.m21utils import DetailLevel
+from musicdiff import DetailLevel
 from musicdiff.annotation import AnnScore, AnnNote, AnnMeasure
 from musicdiff.comparison import Comparison
 from musicdiff.visualization import Visualization
@@ -77,7 +77,8 @@ def main(argv=None):
 			"notesandrests", "beams", "tremolos", "ornaments",
 			"articulations", "ties", "slurs", "signatures",
 			"directions", "barlines", "staffdetails",
-			"chordsymbols", "ottavas", "arpeggios", "lyrics"],
+			"chordsymbols", "ottavas", "arpeggios", "lyrics",
+			"lyricidentifiers"],
 		help="included details (can include multiple details)"
 		)
 
@@ -137,6 +138,8 @@ def main(argv=None):
 				detail |= DetailLevel.Arpeggios
 			elif det == "lyrics":
 				detail |= DetailLevel.Lyrics
+			elif det == "lyricidentifiers":
+				detail |= DetailLevel.LyricIdentifiers
 
 	if args.action == SINGLE_SCORE_ACTION:
 		if args.score is None:
@@ -235,7 +238,7 @@ def compare_single_score(score_name, detail):
 		#print(summ, file=results)
 
 	for diff in diff_list:
-		op = MdiffOp (diff[0], diff[1], diff[2], diff[3])
+		op = MdiffOp (diff.name, diff.obj1, diff.obj2, diff.edit_distance)
 		score_report.add (op)
 
 	outrep = os.path.join (OUT_DIR, f"{scpath.stem}_report.json")
