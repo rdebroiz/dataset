@@ -274,7 +274,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>lec</text>
           </lyric>
         </note>
@@ -289,7 +289,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>ta</text>
           </lyric>
         </note>
@@ -325,7 +325,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>ber</text>
           </lyric>
         </note>
@@ -346,7 +346,7 @@
           <tied type="start"/>
           </notations>
         <lyric number="1" default-y="-40" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>na</text>
           </lyric>
         </note>
@@ -376,7 +376,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>cu</text>
           </lyric>
         </note>
@@ -392,7 +392,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>la</text>
           </lyric>
         </note>
@@ -435,7 +435,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="9.08" default-y="-42.08" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>a,</text>
           </lyric>
         </note>
@@ -481,7 +481,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-42.08" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>mi</text>
           </lyric>
         </note>
@@ -496,7 +496,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-42.08" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>ne</text>
           </lyric>
         </note>
@@ -538,7 +538,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-42.08" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>tu</text>
           </lyric>
         </note>
@@ -554,7 +554,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="8.85" default-y="-42.08" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>tum!</text>
           </lyric>
         </note>
@@ -633,7 +633,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-44.46" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>cu</text>
           </lyric>
         </note>
@@ -648,7 +648,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-44.46" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>pis</text>
           </lyric>
         </note>
@@ -665,7 +665,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-44.46" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>cit</text>
           </lyric>
         </note>
@@ -721,7 +721,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-44.46" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>fi</text>
           </lyric>
         </note>
@@ -769,7 +769,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-44.46" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>ni</text>
           </lyric>
         </note>
@@ -785,7 +785,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-44.46" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>ma</text>
           </lyric>
         </note>
@@ -816,7 +816,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-44.46" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>a</text>
           </lyric>
         </note>
@@ -892,7 +892,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-44.46" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>tri</text>
           </lyric>
         </note>
@@ -908,7 +908,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-44.46" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>a</text>
           </lyric>
         </note>
@@ -952,7 +952,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>mi</text>
           </lyric>
         </note>
@@ -968,7 +968,7 @@
         <type>whole</type>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="9.81" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>ni.</text>
           </lyric>
         </note>
@@ -1130,7 +1130,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="9.08" default-y="-42.78" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>a,</text>
           </lyric>
         </note>
@@ -1199,7 +1199,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-y="-42.78" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>ve</text>
           </lyric>
         </note>
@@ -1352,7 +1352,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-42.78" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>um</text>
           </lyric>
         </note>
@@ -1432,7 +1432,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>ul</text>
           </lyric>
         </note>
@@ -1448,7 +1448,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>ta</text>
           </lyric>
         </note>
@@ -1464,7 +1464,7 @@
         <type>whole</type>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="7.46" default-y="-40" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>ve</text>
           </lyric>
         </note>
@@ -1538,7 +1538,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>um</text>
           </lyric>
         </note>
@@ -1584,7 +1584,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>vum</text>
           </lyric>
         </note>
@@ -1718,7 +1718,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-52.58" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>ser</text>
           </lyric>
         </note>
@@ -1763,7 +1763,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-52.58" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>ve</text>
           </lyric>
         </note>
@@ -1779,7 +1779,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-52.58" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>nit</text>
           </lyric>
         </note>
@@ -1811,7 +1811,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-52.58" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>bi</text>
           </lyric>
         </note>
@@ -1915,7 +1915,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>tur</text>
           </lyric>
         </note>
@@ -1960,7 +1960,7 @@
         <stem color="#A637B0">up</stem>
         <notehead color="#A637B0">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>dum</text>
           </lyric>
         </note>
@@ -2001,7 +2001,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="8.85" default-y="-45.05" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>bi,</text>
           </lyric>
         </note>
@@ -2046,7 +2046,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-45.05" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>dum</text>
           </lyric>
         </note>
@@ -2079,7 +2079,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-45.05" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>bi</text>
           </lyric>
         </note>
@@ -2129,7 +2129,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-45.05" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>bi</text>
           </lyric>
         </note>
@@ -2171,7 +2171,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-47.48" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>nat</text>
           </lyric>
         </note>
@@ -2203,7 +2203,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-47.48" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>los</text>
           </lyric>
         </note>
@@ -2298,7 +2298,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-47.48" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>ta</text>
           </lyric>
         </note>
@@ -2313,7 +2313,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-47.48" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>ri</text>
           </lyric>
         </note>
@@ -2328,7 +2328,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-47.48" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>a</text>
           </lyric>
         </note>
@@ -2447,7 +2447,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-42.78" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>mi</text>
           </lyric>
         </note>
@@ -2464,7 +2464,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-42.78" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>ne</text>
           </lyric>
         </note>
@@ -2501,7 +2501,7 @@
             </articulations>
           </notations>
         <lyric number="1" default-x="7.46" default-y="-42.78" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>tu</text>
           </lyric>
         </note>
@@ -2592,7 +2592,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>us</text>
           </lyric>
         </note>
@@ -2664,7 +2664,7 @@
             </articulations>
           </notations>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>us</text>
           </lyric>
         </note>
@@ -2818,7 +2818,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>a</text>
           </lyric>
         </note>
@@ -2834,7 +2834,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>ti</text>
           </lyric>
         </note>
@@ -2884,7 +2884,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>bi</text>
           </lyric>
         </note>
@@ -2899,7 +2899,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>tant</text>
           </lyric>
         </note>
@@ -2954,7 +2954,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>mo</text>
           </lyric>
         </note>
@@ -2986,7 +2986,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>a</text>
           </lyric>
         </note>
@@ -3041,7 +3041,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-45.05" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>mi</text>
           </lyric>
         </note>
@@ -3059,7 +3059,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="9.32" default-y="-45.05" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>ne:</text>
           </lyric>
         </note>
@@ -3128,7 +3128,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-45.05" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>cu</text>
           </lyric>
         </note>
@@ -3145,7 +3145,7 @@
         <accidental>natural</accidental>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="7.46" default-y="-45.05" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>la</text>
           </lyric>
         </note>
@@ -3179,7 +3179,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-45.05" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>cu</text>
           </lyric>
         </note>
@@ -3199,7 +3199,7 @@
           <slur type="start" bezier-x="18.38515" bezier-y="10.874079" number="1"/>
           </notations>
         <lyric number="1" default-y="-45.05" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>lo</text>
           </lyric>
         </note>
@@ -3287,7 +3287,7 @@
           <slur type="start" bezier-x="21.378264" bezier-y="16.892042" number="1"/>
           </notations>
         <lyric number="1" default-y="-45.05" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>da</text>
           </lyric>
         </note>
@@ -3415,7 +3415,7 @@
           <slur type="start" bezier-x="13.975666" bezier-y="-10.421561" number="1"/>
           </notations>
         <lyric number="1" default-y="-45.05" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>da</text>
           </lyric>
         </note>
@@ -3707,7 +3707,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-49.46" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>lec</text>
           </lyric>
         </note>
@@ -3723,7 +3723,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-49.46" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>ta</text>
           </lyric>
         </note>
@@ -3761,7 +3761,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-49.46" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>ber</text>
           </lyric>
         </note>
@@ -3783,7 +3783,7 @@
           <tied type="start"/>
           </notations>
         <lyric number="1" default-y="-49.46" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>na</text>
           </lyric>
         </note>
@@ -3815,7 +3815,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-49.46" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>cu</text>
           </lyric>
         </note>
@@ -3831,7 +3831,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-49.46" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>la</text>
           </lyric>
         </note>
@@ -3854,7 +3854,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-44.98" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>begin</syllabic>
           <text>tu</text>
           </lyric>
         </note>
@@ -3870,7 +3870,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="9.08" default-y="-44.98" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>a,</text>
           </lyric>
         </note>
@@ -3916,7 +3916,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-44.98" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>mi</text>
           </lyric>
         </note>
@@ -3931,7 +3931,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-44.98" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>ne</text>
           </lyric>
         </note>
@@ -3973,7 +3973,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-44.98" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>tu</text>
           </lyric>
         </note>
@@ -3988,7 +3988,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="8.85" default-y="-44.98" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>tum!</text>
           </lyric>
         </note>
@@ -4065,7 +4065,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-44.46" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>cu</text>
           </lyric>
         </note>
@@ -4081,7 +4081,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-44.46" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>pis</text>
           </lyric>
         </note>
@@ -4098,7 +4098,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-44.46" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>cit</text>
           </lyric>
         </note>
@@ -4155,7 +4155,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-44.46" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>fi</text>
           </lyric>
         </note>
@@ -4206,7 +4206,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-44.46" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>ni</text>
           </lyric>
         </note>
@@ -4222,7 +4222,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-44.46" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>ma</text>
           </lyric>
         </note>
@@ -4254,7 +4254,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-44.46" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>a</text>
           </lyric>
         </note>
@@ -4331,7 +4331,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-44.46" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>tri</text>
           </lyric>
         </note>
@@ -4347,7 +4347,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-44.46" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>a</text>
           </lyric>
         </note>
@@ -4446,7 +4446,7 @@
         <type>whole</type>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="7.89" default-y="-45.17" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>ni.</text>
           </lyric>
         </note>
@@ -4568,7 +4568,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>um</text>
           </lyric>
         </note>
@@ -4653,7 +4653,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-44.58" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>a</text>
           </lyric>
         </note>
@@ -4720,7 +4720,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-44.58" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>ve</text>
           </lyric>
         </note>
@@ -4735,7 +4735,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-44.58" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>runt</text>
           </lyric>
         </note>
@@ -4793,7 +4793,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-44.58" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>um</text>
           </lyric>
         </note>
@@ -4838,7 +4838,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-44.58" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>vum</text>
           </lyric>
         </note>
@@ -4968,7 +4968,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-52.58" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>ser</text>
           </lyric>
         </note>
@@ -5013,7 +5013,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-52.58" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>ve</text>
           </lyric>
         </note>
@@ -5029,7 +5029,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-52.58" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>nit</text>
           </lyric>
         </note>
@@ -5061,7 +5061,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-52.58" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>bi</text>
           </lyric>
         </note>
@@ -5100,7 +5100,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="8.85" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>mum,</text>
           </lyric>
         </note>
@@ -5161,7 +5161,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>tur</text>
           </lyric>
         </note>
@@ -5246,7 +5246,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="8.85" default-y="-45.45" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>bi,</text>
           </lyric>
         </note>
@@ -5290,7 +5290,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-45.45" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>dum</text>
           </lyric>
         </note>
@@ -5323,7 +5323,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-45.45" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>bi</text>
           </lyric>
         </note>
@@ -5374,7 +5374,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-45.45" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>bi</text>
           </lyric>
         </note>
@@ -5412,7 +5412,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-47.48" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>nat</text>
           </lyric>
         </note>
@@ -5443,7 +5443,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-47.48" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>los</text>
           </lyric>
         </note>
@@ -5535,7 +5535,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-47.48" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>ta</text>
           </lyric>
         </note>
@@ -5550,7 +5550,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-47.48" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>ri</text>
           </lyric>
         </note>
@@ -5565,7 +5565,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-47.48" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>a</text>
           </lyric>
         </note>
@@ -5678,7 +5678,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>mi</text>
           </lyric>
         </note>
@@ -5731,7 +5731,7 @@
             </articulations>
           </notations>
         <lyric number="1" default-x="7.46" default-y="-40" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>tu</text>
           </lyric>
         </note>
@@ -5817,7 +5817,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>us</text>
           </lyric>
         </note>
@@ -5889,7 +5889,7 @@
             </articulations>
           </notations>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>us</text>
           </lyric>
         </note>
@@ -6038,7 +6038,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40.45" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>a</text>
           </lyric>
         </note>
@@ -6053,7 +6053,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40.45" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>ti</text>
           </lyric>
         </note>
@@ -6101,7 +6101,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40.45" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>bi</text>
           </lyric>
         </note>
@@ -6116,7 +6116,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40.45" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>tant</text>
           </lyric>
         </note>
@@ -6169,7 +6169,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40.45" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>mo</text>
           </lyric>
         </note>
@@ -6250,7 +6250,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-53.27" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>mi</text>
           </lyric>
         </note>
@@ -6268,7 +6268,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="9.32" default-y="-53.27" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>ne:</text>
           </lyric>
         </note>
@@ -6335,7 +6335,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-53.27" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>cu</text>
           </lyric>
         </note>
@@ -6352,7 +6352,7 @@
         <accidental>natural</accidental>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="5.53" default-y="-53.27" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>la</text>
           </lyric>
         </note>
@@ -6386,7 +6386,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-53.27" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>cu</text>
           </lyric>
         </note>
@@ -6407,8 +6407,8 @@
           <slur type="start" bezier-x="15.776635" bezier-y="-14.272387" number="1"/>
           </notations>
         <lyric number="1" default-x="-9.41" default-y="-53.27" relative-y="-30">
-          <syllabic>begin</syllabic>
-          <text>1o</text>
+          <syllabic>middle</syllabic>
+          <text>lo</text>
           </lyric>
         </note>
       <note default-x="84.97" default-y="-183.3">
@@ -6493,7 +6493,7 @@
           <slur type="start" bezier-x="21.588735" bezier-y="-17.821408" number="1"/>
           </notations>
         <lyric number="1" default-y="-50.84" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>da</text>
           </lyric>
         </note>
@@ -6601,7 +6601,7 @@
           <slur type="start" bezier-x="19.733708" bezier-y="-17.223965" number="1"/>
           </notations>
         <lyric number="1" default-y="-50.84" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>da</text>
           </lyric>
         </note>
@@ -6874,7 +6874,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>lec</text>
           </lyric>
         </note>
@@ -6890,7 +6890,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>ta</text>
           </lyric>
         </note>
@@ -6928,7 +6928,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>ber</text>
           </lyric>
         </note>
@@ -6950,7 +6950,7 @@
           <tied type="start"/>
           </notations>
         <lyric number="1" default-y="-40" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>na</text>
           </lyric>
         </note>
@@ -6982,7 +6982,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>cu</text>
           </lyric>
         </note>
@@ -6998,7 +6998,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>la</text>
           </lyric>
         </note>
@@ -7036,7 +7036,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="9.08" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>a,</text>
           </lyric>
         </note>
@@ -7080,7 +7080,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>mi</text>
           </lyric>
         </note>
@@ -7096,7 +7096,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>ne</text>
           </lyric>
         </note>
@@ -7141,7 +7141,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>tu</text>
           </lyric>
         </note>
@@ -7157,7 +7157,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="8.85" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>tum!</text>
           </lyric>
         </note>
@@ -7234,7 +7234,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-47.48" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>cu</text>
           </lyric>
         </note>
@@ -7250,7 +7250,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-47.48" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>pis</text>
           </lyric>
         </note>
@@ -7266,7 +7266,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-47.48" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>cit</text>
           </lyric>
         </note>
@@ -7320,7 +7320,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-47.48" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>fi</text>
           </lyric>
         </note>
@@ -7339,7 +7339,7 @@
           <slur type="start" bezier-x="11.9203" bezier-y="10.363918" number="1"/>
           </notations>
         <lyric number="1" default-x="6.5" default-y="-47.48" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>cit</text>
           </lyric>
         </note>
@@ -7388,7 +7388,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-47.48" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>ni</text>
           </lyric>
         </note>
@@ -7404,7 +7404,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-47.48" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>ma</text>
           </lyric>
         </note>
@@ -7437,7 +7437,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-47.48" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>a</text>
           </lyric>
         </note>
@@ -7513,7 +7513,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-47.48" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>tri.a</text>
           </lyric>
         </note>
@@ -7565,7 +7565,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-42.08" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>mi</text>
           </lyric>
         </note>
@@ -7581,7 +7581,7 @@
         <type>whole</type>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="9.81" default-y="-42.08" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>ni.</text>
           </lyric>
         </note>
@@ -7674,7 +7674,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-59.88" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>um</text>
           </lyric>
         </note>
@@ -7721,7 +7721,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-59.88" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>ro</text>
           </lyric>
         </note>
@@ -7823,7 +7823,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-y="-59.88" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>ve</text>
           </lyric>
         </note>
@@ -7914,7 +7914,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="8.85" default-y="-59.88" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>runt,</text>
           </lyric>
         </note>
@@ -7944,7 +7944,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-59.88" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>ul</text>
           </lyric>
         </note>
@@ -7959,7 +7959,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-59.88" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>ta</text>
           </lyric>
         </note>
@@ -8139,7 +8139,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-42.78" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>um</text>
           </lyric>
         </note>
@@ -8187,7 +8187,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-42.78" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>vum</text>
           </lyric>
         </note>
@@ -8292,7 +8292,7 @@
         <stem color="#A637B0">up</stem>
         <notehead color="#A637B0">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>nim</text>
           </lyric>
         </note>
@@ -8326,7 +8326,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>ser</text>
           </lyric>
         </note>
@@ -8378,7 +8378,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>ve</text>
           </lyric>
         </note>
@@ -8394,7 +8394,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>nit</text>
           </lyric>
         </note>
@@ -8426,7 +8426,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>bi</text>
           </lyric>
         </note>
@@ -8460,7 +8460,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="8.85" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>mum,</text>
           </lyric>
         </note>
@@ -8571,7 +8571,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>dum</text>
           </lyric>
         </note>
@@ -8605,7 +8605,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>bi</text>
           </lyric>
         </note>
@@ -8688,7 +8688,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>nat</text>
           </lyric>
         </note>
@@ -8721,7 +8721,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>los</text>
           </lyric>
         </note>
@@ -8760,7 +8760,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="8.85" default-y="-47.48" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>os.</text>
           </lyric>
         </note>
@@ -8833,7 +8833,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-47.48" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>ta</text>
           </lyric>
         </note>
@@ -8848,7 +8848,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-47.48" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>ri</text>
           </lyric>
         </note>
@@ -8863,7 +8863,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-47.48" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>a</text>
           </lyric>
         </note>
@@ -8903,7 +8903,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="9.08" default-y="-47.48" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>a,</text>
           </lyric>
         </note>
@@ -8979,7 +8979,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>mi</text>
           </lyric>
         </note>
@@ -8997,7 +8997,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>ne</text>
           </lyric>
         </note>
@@ -9035,7 +9035,7 @@
             </articulations>
           </notations>
         <lyric number="1" default-x="7.46" default-y="-40" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>tu</text>
           </lyric>
         </note>
@@ -9123,7 +9123,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>us</text>
           </lyric>
         </note>
@@ -9195,7 +9195,7 @@
             </articulations>
           </notations>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>us</text>
           </lyric>
         </note>
@@ -9345,7 +9345,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>a</text>
           </lyric>
         </note>
@@ -9360,7 +9360,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>ti</text>
           </lyric>
         </note>
@@ -9409,7 +9409,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>bi</text>
           </lyric>
         </note>
@@ -9424,7 +9424,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>tant</text>
           </lyric>
         </note>
@@ -9479,7 +9479,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>mo</text>
           </lyric>
         </note>
@@ -9582,7 +9582,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="9.32" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>ne:</text>
           </lyric>
         </note>
@@ -9649,7 +9649,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>cu</text>
           </lyric>
         </note>
@@ -9665,7 +9665,7 @@
         <type>whole</type>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="5.53" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>la</text>
           </lyric>
         </note>
@@ -9699,7 +9699,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>cu</text>
           </lyric>
         </note>
@@ -9720,7 +9720,7 @@
           <slur type="start" bezier-x="18.38515" bezier-y="-10.874079" number="1"/>
           </notations>
         <lyric number="1" default-y="-40" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>lo</text>
           </lyric>
         </note>
@@ -9799,7 +9799,7 @@
         <type>whole</type>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="7.46" default-y="-40" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>da</text>
           </lyric>
         </note>
@@ -9892,7 +9892,7 @@
           <tied type="start"/>
           </notations>
         <lyric number="1" default-x="-0.96" default-y="-40" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>da</text>
           </lyric>
         </note>
@@ -10150,7 +10150,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>lec</text>
           </lyric>
         </note>
@@ -10165,7 +10165,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>ta</text>
           </lyric>
         </note>
@@ -10201,7 +10201,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>ber</text>
           </lyric>
         </note>
@@ -10222,7 +10222,7 @@
           <tied type="start"/>
           </notations>
         <lyric number="1" default-y="-40" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>na</text>
           </lyric>
         </note>
@@ -10252,8 +10252,8 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>begin</syllabic>
-          <text>сu</text>
+          <syllabic>middle</syllabic>
+          <text>cu</text>
           </lyric>
         </note>
       <note default-x="148.7" default-y="-407.59">
@@ -10267,7 +10267,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>la</text>
           </lyric>
         </note>
@@ -10304,7 +10304,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="9.08" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>a,</text>
           </lyric>
         </note>
@@ -10348,7 +10348,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>mi</text>
           </lyric>
         </note>
@@ -10363,7 +10363,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>ne</text>
           </lyric>
         </note>
@@ -10406,7 +10406,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>tu</text>
           </lyric>
         </note>
@@ -10422,7 +10422,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="8.85" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>tum!</text>
           </lyric>
         </note>
@@ -10497,7 +10497,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-47.48" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>cu</text>
           </lyric>
         </note>
@@ -10512,7 +10512,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-47.48" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>pis</text>
           </lyric>
         </note>
@@ -10528,7 +10528,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-47.48" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>cit</text>
           </lyric>
         </note>
@@ -10582,7 +10582,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-y="-47.48" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>fi</text>
           </lyric>
         </note>
@@ -10612,7 +10612,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-47.48" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>a</text>
           </lyric>
         </note>
@@ -10628,7 +10628,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-47.48" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>ni</text>
           </lyric>
         </note>
@@ -10643,7 +10643,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-47.48" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>ma</text>
           </lyric>
         </note>
@@ -10673,7 +10673,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-47.48" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>a</text>
           </lyric>
         </note>
@@ -10749,7 +10749,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-47.48" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>tri</text>
           </lyric>
         </note>
@@ -10765,7 +10765,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-47.48" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>a</text>
           </lyric>
         </note>
@@ -10850,7 +10850,7 @@
         <type>whole</type>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="9.81" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>ni.</text>
           </lyric>
         </note>
@@ -10959,7 +10959,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-45.05" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>um</text>
           </lyric>
         </note>
@@ -11006,7 +11006,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-45.05" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>ro</text>
           </lyric>
         </note>
@@ -11038,7 +11038,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-45.05" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>a</text>
           </lyric>
         </note>
@@ -11075,7 +11075,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-45.05" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>ul</text>
           </lyric>
         </note>
@@ -11090,7 +11090,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-45.05" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>ta</text>
           </lyric>
         </note>
@@ -11112,7 +11112,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>ve</text>
           </lyric>
         </note>
@@ -11127,7 +11127,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>runt</text>
           </lyric>
         </note>
@@ -11247,7 +11247,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>vum</text>
           </lyric>
         </note>
@@ -11305,7 +11305,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>um</text>
           </lyric>
         </note>
@@ -11352,7 +11352,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>vum</text>
           </lyric>
         </note>
@@ -11457,7 +11457,7 @@
         <stem color="#A637B0">down</stem>
         <notehead color="#A637B0">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>nim</text>
           </lyric>
         </note>
@@ -11491,7 +11491,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>ser</text>
           </lyric>
         </note>
@@ -11543,7 +11543,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40.05" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>ve</text>
           </lyric>
         </note>
@@ -11559,7 +11559,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40.05" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>nit</text>
           </lyric>
         </note>
@@ -11591,7 +11591,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40.05" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>bi</text>
           </lyric>
         </note>
@@ -11736,7 +11736,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-42.55" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>dum</text>
           </lyric>
         </note>
@@ -11769,7 +11769,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-42.55" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>bi</text>
           </lyric>
         </note>
@@ -11820,7 +11820,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-42.55" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>bi</text>
           </lyric>
         </note>
@@ -11855,7 +11855,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-42.55" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>nat</text>
           </lyric>
         </note>
@@ -11886,7 +11886,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-42.55" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>los</text>
           </lyric>
         </note>
@@ -11924,7 +11924,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="8.85" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>os.</text>
           </lyric>
         </note>
@@ -11997,7 +11997,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>ta</text>
           </lyric>
         </note>
@@ -12012,7 +12012,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>ri</text>
           </lyric>
         </note>
@@ -12069,7 +12069,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="9.08" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>a,</text>
           </lyric>
         </note>
@@ -12145,7 +12145,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>mi</text>
           </lyric>
         </note>
@@ -12163,7 +12163,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>ne</text>
           </lyric>
         </note>
@@ -12202,7 +12202,7 @@
             </articulations>
           </notations>
         <lyric number="1" default-x="7.46" default-y="-40" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>tu</text>
           </lyric>
         </note>
@@ -12289,7 +12289,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>us</text>
           </lyric>
         </note>
@@ -12361,7 +12361,7 @@
             </articulations>
           </notations>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>us</text>
           </lyric>
         </note>
@@ -12516,7 +12516,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>a</text>
           </lyric>
         </note>
@@ -12531,7 +12531,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>ti</text>
           </lyric>
         </note>
@@ -12580,7 +12580,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>bi</text>
           </lyric>
         </note>
@@ -12595,7 +12595,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>tant</text>
           </lyric>
         </note>
@@ -12649,7 +12649,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>mo</text>
           </lyric>
         </note>
@@ -12733,7 +12733,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-42.86" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>mi</text>
           </lyric>
         </note>
@@ -12751,7 +12751,7 @@
         <stem color="#13819E">up</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="9.32" default-y="-42.86" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>ne:</text>
           </lyric>
         </note>
@@ -12845,7 +12845,7 @@
         <type>whole</type>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="7.46" default-y="-42.86" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>la</text>
           </lyric>
         </note>
@@ -12881,7 +12881,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-42.86" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>cu</text>
           </lyric>
         </note>
@@ -12903,7 +12903,7 @@
           <slur type="start" bezier-x="15.132441" bezier-y="15.075429" number="1"/>
           </notations>
         <lyric number="1" default-y="-42.86" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>lo</text>
           </lyric>
         </note>
@@ -12941,7 +12941,7 @@
         <stem color="#13819E">down</stem>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>rum</text>
           </lyric>
         </note>
@@ -12984,7 +12984,7 @@
         <type>whole</type>
         <notehead color="#13819E">normal</notehead>
         <lyric number="1" default-x="7.46" default-y="-40" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>da</text>
           </lyric>
         </note>
@@ -13080,7 +13080,7 @@
           <tied type="start"/>
           </notations>
         <lyric number="1" default-x="-0.96" default-y="-40" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>da</text>
           </lyric>
         </note>
