@@ -1474,8 +1474,11 @@
           <slur type="stop" number="1" bezier-x="-29.866092" bezier-y="31.171353"/>
           </notations>
         <lyric number="1" default-x="6.5" default-y="-44.75" relative-y="-30">
+          <syllabic>end</syllabic>
+          <text>vre</text>
+          <elision> </elision>
           <syllabic>single</syllabic>
-          <text>vre aux</text>
+          <text>aux</text>
           </lyric>
         </note>
       </measure>
@@ -3437,8 +3440,11 @@
         <type>quarter</type>
         <stem>down</stem>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
+          <syllabic>end</syllabic>
+          <text>me</text>
+          <elision> </elision>
           <syllabic>begin</syllabic>
-          <text>me ex</text>
+          <text>ex</text>
           </lyric>
         </note>
       </measure>
