@@ -3024,7 +3024,7 @@
         <type>quarter</type>
         <stem>down</stem>
         <lyric number="1" default-x="12.86" default-y="-43.9" relative-x="1.86" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>re !</text>
           </lyric>
         </note>
@@ -3845,7 +3845,7 @@
         <type>quarter</type>
         <stem>up</stem>
         <lyric number="1" default-x="14.83" default-y="-53.69" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>çon ?</text>
           </lyric>
         </note>
@@ -4169,7 +4169,7 @@
         <type>quarter</type>
         <stem>up</stem>
         <lyric number="1" default-x="14.61" default-y="-49.3" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>tes ?</text>
           </lyric>
         </note>
@@ -4226,7 +4226,7 @@
         <type>quarter</type>
         <stem>up</stem>
         <lyric number="1" default-x="12.86" default-y="-49.3" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>ni !</text>
           </lyric>
         </note>

@@ -3125,7 +3125,7 @@
             </articulations>
           </notations>
         <lyric number="1" default-x="0.39" default-y="-40.22" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>a ?</text>
           <extend/>
           </lyric>
@@ -15107,7 +15107,7 @@
             </articulations>
           </notations>
         <lyric number="1" default-x="0.39" default-y="-43.11" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>a ?</text>
           <extend/>
           </lyric>
@@ -26850,7 +26850,7 @@
             </articulations>
           </notations>
         <lyric number="1" default-x="0.39" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>a ?</text>
           <extend/>
           </lyric>
@@ -38965,7 +38965,7 @@
             </articulations>
           </notations>
         <lyric number="1" default-x="0.39" default-y="-40.22" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>a ?</text>
           <extend/>
           </lyric>

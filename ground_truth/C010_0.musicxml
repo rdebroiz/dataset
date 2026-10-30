@@ -1827,7 +1827,7 @@
     <stem>up</stem>
     <staff>1</staff>
     <lyric default-y="-80" number="part1verse1" color="#000000">
-     <syllabic>begin</syllabic>
+     <syllabic>middle</syllabic>
      <text>fa</text>
     </lyric>
     <lyric default-y="-96" number="part1verse2" color="#000000">

@@ -1553,7 +1553,7 @@
         <stem default-y="-5">up</stem>
         <lyric default-y="-80" name="verse" number="1">
           <syllabic>begin</syllabic>
-          <text font-size="10.4">t$</text>
+          <text font-size="10.4">tê</text>
         </lyric>
       </note>
       <note default-x="217">

@@ -810,7 +810,7 @@
         <type>quarter</type>
         <stem>up</stem>
         <lyric number="1" default-x="11.8" default-y="-46.54" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>te ;</text>
           </lyric>
         </note>
@@ -1952,7 +1952,7 @@
         <accidental>sharp</accidental>
         <stem>up</stem>
         <lyric number="1" default-x="11.55" default-y="-43.53" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>e !</text>
           </lyric>
         </note>
@@ -2200,7 +2200,7 @@
         <type>quarter</type>
         <stem>up</stem>
         <lyric number="1" default-x="12.05" default-y="-46.03" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>ge ;</text>
           </lyric>
         </note>
@@ -2858,7 +2858,7 @@
         <type>quarter</type>
         <stem>up</stem>
         <lyric number="1" default-x="12.05" default-y="-46.03" relative-x="2.15" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>e ;</text>
           </lyric>
         </note>
@@ -3133,7 +3133,7 @@
           <slur type="stop" number="1" bezier-x="-42.035833" bezier-y="27.450735"/>
           </notations>
         <lyric number="1" default-x="12.05" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>re :</text>
           </lyric>
         </note>

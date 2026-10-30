@@ -252,7 +252,7 @@
         <type>eighth</type>
         <stem>up</stem>
         <lyric number="1" default-x="10.88" default-y="-50.34" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>saient ‑</text>
           </lyric>
         </note>
@@ -511,7 +511,7 @@
           <tied type="start"/>
           </notations>
         <lyric number="1" default-y="-50.34" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>zils ?</text>
           <extend/>
           </lyric>
@@ -591,7 +591,7 @@
           <tied type="start"/>
           </notations>
         <lyric number="1" default-x="10.59" default-y="-50.34" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>mez !</text>
           </lyric>
         </note>
@@ -647,7 +647,7 @@
           <tied type="start"/>
           </notations>
         <lyric number="1" default-x="10.59" default-y="-50.34" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>mez !</text>
           </lyric>
         </note>
@@ -697,7 +697,7 @@
         <type>16th</type>
         <stem>up</stem>
         <lyric number="1" default-x="10.88" default-y="-50.34" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>saient ‑</text>
           </lyric>
         </note>
@@ -752,7 +752,7 @@
           <tied type="stop"/>
           </notations>
         <lyric number="1" default-x="10.59" default-y="-48.04" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>les !</text>
           </lyric>
         </note>
@@ -919,7 +919,7 @@
         <type>eighth</type>
         <stem>up</stem>
         <lyric number="1" default-x="10.88" default-y="-50.34" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>saient ‑</text>
           </lyric>
         </note>
@@ -1196,7 +1196,7 @@
           <tied type="start"/>
           </notations>
         <lyric number="1" default-x="0.58" default-y="-67.22" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>rils ?</text>
           <extend/>
           </lyric>
@@ -1288,7 +1288,7 @@
           <tied type="start"/>
           </notations>
         <lyric number="1" default-x="10.59" default-y="-67.22" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>mez !</text>
           </lyric>
         </note>
@@ -1353,7 +1353,7 @@
           <slur type="start" orientation="under" placement="below" bezier-x="32.801163" bezier-y="-22.676814" number="1"/>
           </notations>
         <lyric number="1" default-x="0.58" default-y="-50.93" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>mez !</text>
           <extend/>
           </lyric>
@@ -1399,7 +1399,7 @@
         <type>16th</type>
         <stem>up</stem>
         <lyric number="1" default-x="10.88" default-y="-50.93" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>saient ‑</text>
           </lyric>
         </note>
@@ -1433,7 +1433,7 @@
         <type>quarter</type>
         <stem>up</stem>
         <lyric number="1" default-x="10.59" default-y="-50.93" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>les !</text>
           </lyric>
         </note>
@@ -1591,7 +1591,7 @@
         <type>eighth</type>
         <stem>up</stem>
         <lyric number="1" default-x="10.88" default-y="-55.34" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>saient ‑</text>
           </lyric>
         </note>
@@ -1899,7 +1899,7 @@
         <dot default-x="30.49" default-y="-5"/>
         <stem>down</stem>
         <lyric number="1" default-x="11.76" default-y="-50.34" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>tils ?</text>
           </lyric>
         </note>
@@ -1971,7 +1971,7 @@
           <slur type="start" orientation="over" placement="above" bezier-x="41.745504" bezier-y="26.489797" number="1"/>
           </notations>
         <lyric number="1" default-x="10.59" default-y="-50.34" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>mez !</text>
           </lyric>
         </note>
@@ -2061,7 +2061,7 @@
           <tied type="start"/>
           </notations>
         <lyric number="1" default-x="10.59" default-y="-42.84" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>mez !</text>
           </lyric>
         </note>
@@ -2114,7 +2114,7 @@
         <dot default-x="30.49" default-y="-15"/>
         <stem>up</stem>
         <lyric number="1" default-x="10.59" default-y="-42.84" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>mez !</text>
           </lyric>
         </note>
@@ -2160,7 +2160,7 @@
         <type>16th</type>
         <stem>up</stem>
         <lyric number="1" default-x="10.88" default-y="-42.84" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>middle</syllabic>
           <text>saient ‑</text>
           </lyric>
         </note>
@@ -2219,7 +2219,7 @@
           <tied type="stop"/>
           </notations>
         <lyric number="1" default-x="10.59" default-y="-47.47" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>les !</text>
           </lyric>
         </note>

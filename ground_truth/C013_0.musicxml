@@ -448,7 +448,7 @@
         <type>half</type>
         <stem>up</stem>
         <lyric number="1" default-x="13.32" default-y="-40" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>té ;</text>
           </lyric>
         </note>
@@ -862,7 +862,7 @@
         <type>eighth</type>
         <stem>up</stem>
         <lyric number="1" default-x="13.93" default-y="-50.57" relative-x="3.98" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>re ;</text>
           </lyric>
         </note>
@@ -1008,7 +1008,7 @@
         <type>quarter</type>
         <stem>down</stem>
         <lyric number="1" default-x="13.93" default-y="-50.57" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>re ;</text>
           </lyric>
         </note>
@@ -1457,7 +1457,7 @@
         <type>eighth</type>
         <stem>up</stem>
         <lyric number="1" default-x="13.53" default-y="-40" relative-x="1.71" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>e ;</text>
           </lyric>
         </note>
@@ -1569,7 +1569,7 @@
         <type>eighth</type>
         <stem>up</stem>
         <lyric number="1" default-x="6.5" default-y="-40" relative-y="-30">
-          <syllabic>begin</syllabic>
+          <syllabic>single</syllabic>
           <text>sans</text>
           </lyric>
         </note>
@@ -1859,7 +1859,7 @@
         <type>half</type>
         <stem>up</stem>
         <lyric number="1" default-x="13.93" default-y="-50.57" relative-x="2.28" relative-y="-30">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text>leur ;</text>
           </lyric>
         </note>

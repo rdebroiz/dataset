@@ -46461,7 +46461,7 @@
         <stem default-y="-55">down</stem>
         <lyric default-y="-80" name="verse" number="1">
           <syllabic>begin</syllabic>
-          <text font-family="Finale Lyrics">m^</text>
+          <text font-family="Finale Lyrics">mê</text>
         </lyric>
       </note>
       <note default-x="116">
@@ -63838,7 +63838,7 @@
         <stem default-y="-55">down</stem>
         <lyric default-y="-80" name="verse" number="1">
           <syllabic>begin</syllabic>
-          <text font-family="Finale Lyrics">m^</text>
+          <text font-family="Finale Lyrics">mê</text>
         </lyric>
       </note>
       <note default-x="116">
@@ -105904,7 +105904,7 @@
         <stem default-y="-55">down</stem>
         <lyric default-y="-80" name="verse" number="1">
           <syllabic>begin</syllabic>
-          <text font-family="Finale Lyrics">m^</text>
+          <text font-family="Finale Lyrics">mê</text>
         </lyric>
       </note>
       <note default-x="116">
@@ -119942,7 +119942,7 @@
         <stem default-y="-55">down</stem>
         <lyric default-y="-80" name="verse" number="1">
           <syllabic>begin</syllabic>
-          <text font-family="Finale Lyrics">m^</text>
+          <text font-family="Finale Lyrics">mê</text>
         </lyric>
       </note>
       <note default-x="116">
