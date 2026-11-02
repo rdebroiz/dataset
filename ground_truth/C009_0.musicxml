@@ -15452,11 +15452,13 @@
       <note default-x="27.25" default-y="-268.27">
         <pitch>
           <step>B</step>
+          <alter>-1</alter>
           <octave>3</octave>
           </pitch>
         <duration>4</duration>
         <voice>5</voice>
         <type>eighth</type>
+        <accidental>flat</accidental>
         <stem>down</stem>
         <staff>2</staff>
         <beam number="1">begin</beam>
